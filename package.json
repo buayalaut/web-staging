@@ -7,7 +7,6 @@
     "node": "16"
   }
 }
-{
   "author": "Kinyanjui Wangonya <kwangonya@gmail.com>",
   "dependencies": {
     "gatsby": "^3.1.0",
