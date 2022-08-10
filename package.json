@@ -3,6 +3,11 @@
   "private": true,
   "description": "A simple minimalist starter for your personal blog",
   "version": "0.2.0",
+  "engines": {
+    "node": "16.x"
+  }
+}
+{
   "author": "Kinyanjui Wangonya <kwangonya@gmail.com>",
   "dependencies": {
     "gatsby": "^3.1.0",
@@ -42,7 +47,6 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "engines": "node": "16",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "repository": {
